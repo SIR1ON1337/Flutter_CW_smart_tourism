@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557849857958",
+    "project_id": "smarttourism-ee30c",
+    "storage_bucket": "smarttourism-ee30c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557849857958:android:d15474c1c6d0bfe7340967",
+        "android_client_info": {
+          "package_name": "com.tourism.smart_tourism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpYMDeZ3S1LWDAbhNV6RZiUMirk_1zIGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
