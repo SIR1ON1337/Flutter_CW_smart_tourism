@@ -12,7 +12,7 @@ Future<void> main() async {
   await Firebase.initializeApp();
   
   runApp(MaterialApp(
-    thegitme: ThemeData(
+    theme: ThemeData(
       primaryColor: Colors.amberAccent,
     ),
     initialRoute: '/',
