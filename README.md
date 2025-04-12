@@ -1,6 +1,6 @@
 # smart_tourism
 
-A new Flutter project.
+Это мой первый проект на Flutter и моя курсовая работа. Не судите строго и не бейте )
 
 ## Getting Started
 
